@@ -2,7 +2,7 @@
 Mi Trayectoria Profesional
 
 <h1 align="center">Hi 👋, I'm Nikolai Alfredo Nacino San Andres</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A systems technician passionate about developing me more in knowledge</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuk3cry0x&label=Profile%20views&color=0e75b6&style=flat" alt="nuk3cry0x" /> </p>
 
